@@ -1,0 +1,4 @@
+SQLiteORMExample.MainActivity;sqliteormexample.MainActivity
+SQLiteORMExample.AddInventoryActivity;sqliteormexample.AddInventoryActivity
+SQLiteORMExample.InventoryListAdapter;sqliteormexample.InventoryListAdapter
+SQLiteORMExample.ManageInventoryActivity;sqliteormexample.ManageInventoryActivity

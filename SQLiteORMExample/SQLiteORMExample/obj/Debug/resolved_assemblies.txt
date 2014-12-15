@@ -1,0 +1,2 @@
+/Users/Neel/Projects/SQLiteORMExample/SQLiteORMExample/bin/Debug/SQLiteORMExample.dll
+/Users/Neel/Projects/SQLiteORMExample/Components/json.net-4.5.11.1/lib/android/Newtonsoft.Json.dll
