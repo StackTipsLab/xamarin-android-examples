@@ -1,0 +1,13 @@
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/bin/Debug/ImageViewExample.dll.mdb
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/bin/Debug/ImageViewExample.dll
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/bin/Debug/ImageViewExample.ImageViewExample.apk
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/android/bin/ImageViewExample.ImageViewExample.apk
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/res/layout/main.xml
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/res/values/strings.xml
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/res/drawable/icon.png
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/R.cs.flag
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/bin/Debug/ImageViewExample.ImageViewExample-Signed.apk
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/uploadflags.txt
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/ImageViewExample.dll
+/Users/Neel/Projects/ImageViewExample/ImageViewExample/obj/Debug/ImageViewExample.dll.mdb
