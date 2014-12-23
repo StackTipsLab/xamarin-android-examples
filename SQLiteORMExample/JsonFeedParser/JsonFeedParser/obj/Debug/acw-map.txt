@@ -1,0 +1,3 @@
+JsonFeedParser.MainActivity;jsonfeedparser.MainActivity
+JsonFeedParser.CusotmListAdapter;jsonfeedparser.CusotmListAdapter
+JsonFeedParser.FeedDetailsActivity;jsonfeedparser.FeedDetailsActivity

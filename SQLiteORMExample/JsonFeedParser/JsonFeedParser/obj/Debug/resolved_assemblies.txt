@@ -1,0 +1,3 @@
+/Users/Neel/Projects/JsonFeedParser/JsonFeedParser/bin/Debug/JsonFeedParser.dll
+/Users/Neel/Projects/JsonFeedParser/Components/json.net-4.5.11.1/lib/android/Newtonsoft.Json.dll
+/Users/Neel/Projects/JsonFeedParser/Components/urlimageviewhelper-1.0.4/lib/android/UrlImageViewHelper.dll
