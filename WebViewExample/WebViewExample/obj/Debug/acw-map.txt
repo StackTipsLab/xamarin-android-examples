@@ -1,0 +1,2 @@
+WebViewExample.MainActivity;webviewexample.MainActivity
+WebViewExample.MainActivity.MyWebViewClient;webviewexample.MainActivity_MyWebViewClient

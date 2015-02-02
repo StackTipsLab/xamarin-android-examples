@@ -1,0 +1,17 @@
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/bin/Debug/WebViewExample.dll.mdb
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/bin/Debug/WebViewExample.dll
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/bin/Debug/WebViewExample.WebViewExample.apk
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/android/bin/WebViewExample.WebViewExample.apk
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/layout/main.xml
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/values/strings.xml
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/drawable-hdpi/icon.png
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/drawable-mdpi/icon.png
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/R.cs.flag
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/bin/Debug/WebViewExample.WebViewExample-Signed.apk
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/uploadflags.txt
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/WebViewExample.dll
+/Users/nilanchalpanigrahy/Projects/WebViewExample/WebViewExample/obj/Debug/WebViewExample.dll.mdb
